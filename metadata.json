@@ -1,0 +1,6 @@
+{
+  "name": "FTTH & HFC Smart Operational Intelligence System",
+  "description": "Rancang Bangun Sistem Deteksi Anomali pada Data Work Order (WO) Teknisi Jaringan FTTH dan HFC Menggunakan Algoritma Isolation Forest di PT. Anugerah Terang Persada.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
